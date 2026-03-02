@@ -211,11 +211,17 @@ The results confirm the original study’s findings regarding cell-type–specif
 This project demonstrates:
 
 ✔ Single-cell RNA-seq preprocessing
-✔ AnnData object construction
-✔ Feature selection via highly variable genes
-✔ Dimensionality reduction (PCA, tSNE)
-✔ Graph-based clustering (Louvain)
-✔ Marker-based cell type annotation
-✔ Hierarchical clustering
-✔ Figure replication from published literature
 
+✔ AnnData object construction
+
+✔ Feature selection via highly variable genes
+
+✔ Dimensionality reduction (PCA, tSNE)
+
+✔ Graph-based clustering (Louvain)
+
+✔ Marker-based cell type annotation
+
+✔ Hierarchical clustering
+
+✔ Figure replication from published literature
